@@ -1,6 +1,6 @@
-[WebRTC](http://en.wikipedia.org/wiki/WebRTC) for NodeJS
+[WebRTC](http://en.wikipedia.org/wiki/WebRTC)!for NodeJS
 
-### Chromium
+**# Chromium
 
 webrtc-native is using [WebRTC](http://webrtc.org/) from chromium project. code is compiled with branch [50](https://chromium.googlesource.com/external/webrtc/+/branch-heads/50).
 
@@ -39,3 +39,4 @@ var WebRTC = require('webrtc-native');
 #### WebRTC.setDebug(boolean)
 
 - Enable / Disable WebRTC log messages
+ 
